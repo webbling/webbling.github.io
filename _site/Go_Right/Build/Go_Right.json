@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Pumpkin Game Jam 2017",
+"dataUrl": "Go_Right.data.unityweb",
+"asmCodeUrl": "Go_Right.asm.code.unityweb",
+"asmMemoryUrl": "Go_Right.asm.memory.unityweb",
+"asmFrameworkUrl": "Go_Right.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
